@@ -1,0 +1,82 @@
+[
+    {
+    "Serial_number": "1",
+    "Item_Name": "Milk",
+    "Quantity": "2",
+    "Unit":"mL",
+    "Department":"grocery",
+    "Notes": "Milma brand"
+},
+{
+    "Serial_number": "2",
+    "Item_Name": "Rice",
+    "Quantity": "1",
+    "Unit":"kg",
+    "Department":"grocery",
+    "Notes": "Basmati rice"
+},
+{
+    "Serial_number": "3",
+    "Item_Name": "Carrot",
+    "Quantity": "1",
+    "Unit":"kg",
+    "Department":"vegetables",
+    "Notes": "fresh veg"
+},
+{
+    "Serial_number": "4",
+    "Item_Name": "Capsicum",
+    "Quantity": "2",
+    "Unit":"nos",
+    "Department":"vegetables",
+    "Notes": "buy green capsicum"
+},
+{
+    "Serial_number": "5",
+    "Item_Name": "Banana",
+    "Quantity": "1",
+    "Unit":"kg",
+    "Department":"fruits",
+    "Notes": "small banana"
+},
+{
+    "Serial_number": "6",
+    "Item_Name": "Chocolates",
+    "Quantity": "2",
+    "Unit":"nos",
+    "Department":"grocery",
+    "Notes": "Cadbury diary milk"
+},
+{
+    "Serial_number": "7",
+    "Item_Name": "Chips",
+    "Quantity": "2",
+    "Unit":"nos",
+    "Department":"snacks",
+    "Notes": "Lays"
+},
+{
+    "Serial_number": "8",
+    "Item_Name": "Noodles",
+    "Quantity": "2",
+    "Unit":"nos",
+    "Department":"food",
+    "Notes": "Maggie"
+},
+{
+    "Serial_number": "9",
+    "Item_Name": "eggs",
+    "Quantity": "6",
+    "Unit":"nos",
+    "Department":"eggs",
+    "Notes": "nadan egg"
+},
+{
+    "Serial_number": "10",
+    "Item_Name": "pen",
+    "Quantity": "2",
+    "Unit":"nos",
+    "Department":"stationary",
+    "Notes": "Lexie pens"
+}
+]

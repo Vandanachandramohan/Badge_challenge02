@@ -1,0 +1,49 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: rgb(174, 5, 168);
+}
+#demo button {
+  width: 10%;
+  padding: 20px;
+  margin-left: 45%;
+  font-size: 15px;
+  font-weight: bold;
+  background: grey;
+  color: white;
+  cursor: pointer;
+  border: 1px solid black;
+}
+#demo button:hover {
+  background: black;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  margin-left: 16%;
+}
+th {
+  background: rgb(196, 4, 36);
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px;
+}
+td {
+  background: transparent;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  color: whitesmoke;
+}
+tr:hover {
+  background: rgb(88, 71, 104);
+}
